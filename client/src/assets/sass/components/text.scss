@@ -1,0 +1,10 @@
+/* Text */
+
+@import '../_variables';
+
+a {
+  color: $blue;
+  &:hover {
+    color: $light-blue;
+  }
+}

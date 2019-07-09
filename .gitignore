@@ -1,0 +1,12 @@
+# General
+*.vscode
+*.code-workspace
+/misc
+
+# Client app
+/client/.env
+/client/node_modules
+
+# Server app
+/server/.env
+/server/node_modules
